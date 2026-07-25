@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "707736319521",
+    "firebase_url": "https://esp32-prueba-cfbae-default-rtdb.firebaseio.com",
+    "project_id": "esp32-prueba-cfbae",
+    "storage_bucket": "esp32-prueba-cfbae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707736319521:android:d037fff0639f3622d99560",
+        "android_client_info": {
+          "package_name": "com.example.prueba1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIPx3BfJYK2IX7r1s6WqFJONYZtpTSTE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
